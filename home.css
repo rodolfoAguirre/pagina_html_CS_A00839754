@@ -9,11 +9,7 @@ h1 {
     text-align: center;
 }
 
-/*Cambia color de unicamente los links dentro de li en el .html*/
-/*li > a {*/
-/*    color: green;*/
-/*    !important;*/
-/*}*/
+
 
 @keyframes example {
     0%   {background-color: red;}
